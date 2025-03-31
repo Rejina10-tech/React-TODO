@@ -1,0 +1,6 @@
+ 
+name = "todo-app"
+compatibility_date = "2025-03-31"
+
+[build]
+command = "npm run build"
